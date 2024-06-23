@@ -1,0 +1,19 @@
+.quweb{
+	position:absolute;
+    z-index:-1;
+	width:100%;
+	height:100%;
+    margin: 0px;
+    padding: 0px;
+    background-size:100% 100%;
+    background-attachment:scroll;
+    background-repeat:repeat;
+    background-image:url("downloaded_image.jpg");
+}
+.toph{
+    position: relative;
+    z-index: 0;
+    top: 0px;
+    left: 0px;
+    color: #fff;
+}
